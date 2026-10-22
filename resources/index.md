@@ -8,10 +8,22 @@
 
 | 资料 | 用途 | 核验范围 |
 | --- | --- | --- |
+| [第7—12课教材](../learning/lessons/index.md) | 讲解、算例、Python、自测与参考答案 | 6个代码示例已运行；个人学习待记录 |
 | [风险与仓位笔记](../learning/risk-and-position.md) | 复习已学概念、做计算题 | 本轮编写并复核算例 |
 | [实验 001](../research/experiment-001.md) | 把仓位、波动率与回撤连起来 | 人工教学数据，已复算 |
 | [NumPy 标准差说明](https://numpy.org/doc/stable/reference/generated/numpy.std.html) | 区分 ddof=0 与 ddof=1 | 2026-10-23 查阅官方文档 |
 | [Investor.gov：费用如何影响投资组合](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins/updated) | 理解为何记录成本和净收益 | 2026-10-23 查阅官方资料 |
+
+## 后续课程参考
+
+| 官方资料 | 对应课程 |
+| --- | --- |
+| [pandas CSV与表格读写](https://pandas.pydata.org/docs/getting_started/intro_tutorials/02_read_write.html) | 第8课 |
+| [pandas pct_change](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.pct_change.html) | 第8课，相对变化与缺失值 |
+| [pandas shift](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.shift.html) / [rolling](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.rolling.html) | 第9、11课，历史窗口与信号时序 |
+| [时间序列交叉验证](https://scikit-learn.org/stable/modules/cross_validation.html#time-series-split) | 第12课，按时间检验 |
+
+以上资料于2026-10-23查阅。后续教材承接既有《量化交易学习手册》第7课与第8课安排；旧第6课卖出示例日期的校正见[第11课](../learning/lessons/11-minimal-backtest.md)。本轮不修改已有HTML手册。
 
 ## 原有书籍：按学习用途索引
 
