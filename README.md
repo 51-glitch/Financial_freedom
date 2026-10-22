@@ -9,6 +9,7 @@
 | 入口 | 用途 |
 | --- | --- |
 | [学习路线与进度](learning/roadmap.md) | 找到已学主题、待复习内容和下一项实践 |
+| [第7—12课完整教材](learning/lessons/index.md) | 综合复习、pandas、数据清洗、成本、回测与样本外验证 |
 | [风险与仓位笔记](learning/risk-and-position.md) | 复习收益率、波动率、最大回撤、仓位与 R 倍数 |
 | [实验 001：仓位如何改变收益与回撤](research/experiment-001.md) | 用固定教学数据比较 100% 与 50% 仓位 |
 | [精选资料与核验记录](resources/index.md) | 按用途找资料，区分当前参考和历史收藏 |
