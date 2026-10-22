@@ -1,4 +1,39 @@
-<div align="center">
+# Financial Freedom · 量化学习与研究资料库
+
+把金融概念整理清楚，把交易想法写成规则，再用可复算的实验检验。
+
+本库以中文学习笔记、研究记录和精选资料为主。当前阶段是基础复习与教学实验，尚未形成经过真实市场数据验证的交易策略。
+
+## 从这里开始
+
+| 入口 | 用途 |
+| --- | --- |
+| [学习路线与进度](learning/roadmap.md) | 找到已学主题、待复习内容和下一项实践 |
+| [风险与仓位笔记](learning/risk-and-position.md) | 复习收益率、波动率、最大回撤、仓位与 R 倍数 |
+| [实验 001：仓位如何改变收益与回撤](research/experiment-001.md) | 用固定教学数据比较 100% 与 50% 仓位 |
+| [精选资料与核验记录](resources/index.md) | 按用途找资料，区分当前参考和历史收藏 |
+
+建议使用顺序：复习一个概念 → 独立完成一道题 → 复算一个实验 → 记录结论与局限。
+
+## 内容如何维护
+
+- 学习状态与验证状态分开：学过不等于独立完成，更不等于策略有效。
+- 每份研究记录写明问题、规则、数据、成本、结果和失效条件；没有运行的项目明确写“待验证”。
+- 外部观点保留来源和日期，转成待检验问题后再进入研究记录。
+- 新增内容优先使用 Markdown，可直接在 GitHub 或 Obsidian 阅读；不依赖 Obsidian 专有链接。
+- 原有 PDF 暂保留原路径。新增资料优先记录原始来源与个人笔记，避免重复堆放文件。
+- 当前尚无真实行情回测、模拟交易或实盘执行模块。教学例子的数字不是实际交易记录。
+
+## 来源与历史资料
+
+本仓库 fork 自 [codeman008/Financial_freedom](https://github.com/codeman008/Financial_freedom)，本轮整理基于上游提交 [322f1bc](https://github.com/codeman008/Financial_freedom/commit/322f1bc132e879e8ddbf4485d6a931735622f086)。
+
+上游的书籍、纪录片、频道及 Web3 工具清单保留在下方，供追溯与参考。清单中的第一人称评价属于原作者；评分、收益描述、平台条件与链接状态尚未逐项重新核验。带邀请参数的链接沿用上游原文，不作为本库的当前推荐入口。
+
+本轮整理日期：2026-10-23。目录共 17 份原有 PDF；本轮没有修改 PDF。
+
+<details>
+<summary>展开上游历史资料清单（保留原文，未逐项核验）</summary>
 
 ## ⭐ Support This Project
 
@@ -431,3 +466,5 @@ Get a more comprehensive understanding of the company data you are interested in
 Collects a unique dashboard that can quickly provide a market overview, conducts in-depth research on each project to provide the most important and relevant metrics, and constantly updates the cryptocurrency heat and new coin lists.
 
 :love_letter: **All data and resources are compiled from public platform data.**
+
+</details>
